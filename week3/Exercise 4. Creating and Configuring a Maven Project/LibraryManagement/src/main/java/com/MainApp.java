@@ -1,6 +1,6 @@
-package com.library;
+package com;
 
-import com.library.service.BookService;
+import com.BookService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
