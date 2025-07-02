@@ -1,4 +1,4 @@
-package com.library.repository;
+package com;
 
 public class BookRepository {
     public void saveBook(String name){
